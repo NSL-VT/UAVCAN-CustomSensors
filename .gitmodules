@@ -7,3 +7,12 @@
 [submodule "Teensy/CustomRPM/lib/dronecan"]
 	path = Teensy/CustomRPM/lib/dronecan
 	url = https://github.com/bolderflight/dronecan.git
+[submodule "Teensy/NSL_ADU/lib/circle_buf"]
+	path = Teensy/NSL_ADU/lib/circle_buf
+	url = https://github.com/bolderflight/circle_buf.git
+[submodule "Teensy/NSL_ADU/lib/flexcan"]
+	path = Teensy/NSL_ADU/lib/flexcan
+	url = https://github.com/bolderflight/flexcan.git
+[submodule "Teensy/NSL_ADU/lib/dronecan"]
+	path = Teensy/NSL_ADU/lib/dronecan
+	url = https://github.com/bolderflight/dronecan.git
